@@ -1,11 +1,11 @@
-An example dockerised python script using pyfiglet
+An example dockerised python script using pyfiglet to print out a welcome message.
 
-Dependencies: docker and git
+*Dependencies:* docker and git
 
 ### Installation 
 
-Requires docker and git to be installed, the commands below are for a bash command line 
-in Linux, please adapt for your own system.
+Requires docker and git to be installed. The commands below should work in Windows, Mac 
+OSx or Linux command-lines.
 
 ```bash
 git clone https://github.com/martinjrobins/docker-rrox.git
