@@ -1,7 +1,5 @@
 An example dockerised python script using pyfiglet to print out a welcome message.
 
-*Dependencies:* docker and git
-
 ### Installation 
 
 Requires docker and git to be installed. The commands below should work in Windows, Mac 
