@@ -1,11 +1,11 @@
 An example dockerised python script using pyfiglet
 
-Dependencies: docker
+Dependencies: docker and git
 
 ### Installation 
 
 Requires docker and git to be installed, the commands below are for a bash command line 
-in Linux.
+in Linux, please adapt for your own system.
 
 ```bash
 git clone https://github.com/martinjrobins/docker-rrox.git
